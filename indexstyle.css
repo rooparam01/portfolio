@@ -18,9 +18,9 @@ button {
   border-top-left-radius: 5px;
   border-bottom-right-radius: 5px;
   border-top-right-radius: 5px;
-  font-size: 20px;
-  background-color: rgba(152, 229, 229, 0.352);
-  border: none;
+  font-size: 18px;
+  border:  2px solid rgb(206, 206, 206); 
+  background-color: transparent ;
 }
 /* css for links */
 a:link,
@@ -52,6 +52,10 @@ a:visited {
   padding: 2px;
   font-size: 20px;
   color: rgb(1, 46, 61); 
+}
+
+a{
+  
 }
 /*this is for hii ia roopa ram font*/
 .mid{
